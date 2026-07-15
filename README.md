@@ -4,15 +4,19 @@
   </a>
 </p>
 
-# sid:paleja
+# Hi! I'm Sid Paleja!
 
-Product-minded engineer. CS student at UC Riverside, class of 2027. I work across product management, growth, and technical development: talk to users, define the roadmap, ship the code.
+Product-minded engineer. CS student at UC Riverside, class of 2027. I work across product management, growth, and technical development: talk to users, define the roadmap, ship code.
 
 [email](mailto:siddharthpaleja@gmail.com) · [linkedin](https://www.linkedin.com/in/siddharth-paleja-48612b1b4/) · [github](https://github.com/sidpaleja11)
 
+I'm a passionate DJ, snowboarder, and innovator!
+
+Lets connect!
+
 ---
 
-## sid:experience
+## My experience
 
 **Metafloor.ai** · Software Engineering Intern · Jan 2026 to Present
 
@@ -37,7 +41,7 @@ Product-minded engineer. CS student at UC Riverside, class of 2027. I work acros
 
 ---
 
-## sid:projects
+## My projects
 
 **[Clerq](https://github.com/sidpaleja11/Clerq_cpa)** · Co-Founder
 
@@ -59,7 +63,7 @@ Product-minded engineer. CS student at UC Riverside, class of 2027. I work acros
 
 ---
 
-## sid:leadership
+## My leadership
 
 - President and Co-Founder, Product Management Club at UCR. Founded and scaled a 50+ member org
 - Runs product workshops, case competitions, and industry speaker events
@@ -68,7 +72,7 @@ Product-minded engineer. CS student at UC Riverside, class of 2027. I work acros
 
 ---
 
-## sid:skills
+## My skills
 
 **product:** Agile · Scrum · Roadmapping · User Stories · Product Discovery · Figma
 
