@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30067032/README.md)<p align="center">
+<p align="center">
   <a href="https://open.spotify.com/playlist/5uMUDtq4vuEEhz1BJQiPI4?si=a9cfacb2077343bd" target="_blank">
     <img src="turntable.svg" alt="Spinning turntable. Click to open my Spotify playlist." width="820"/>
   </a>
